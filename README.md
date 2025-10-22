@@ -26,19 +26,6 @@ It includes a scientific expression evaluator, a calculation history panel, and 
 
 [Click here ☺️](https://yaldakhoshpey.github.io/Calculator_pro/)
 
-## 📁 Project Structure
-
-``` text
-advanced-calculator/
-├── index.html           # Main HTML structure
-├── style.css            # Calculator & layout styling
-├── app.js               # Calculator logic & interactions
-├── screenshot.png       # UI screenshot for README preview
-├── README.md            # Project documentation
-└── assets/              # (Optional) icons, images, fonts etc.
-```
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](./LICENSE).
