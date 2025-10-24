@@ -16,20 +16,4 @@ It includes a scientific expression evaluator, a calculation history panel, and 
 
 ---
 
-## 📸 Screenshots
-
-![Calculator Screenshot](./screenshot/screenshot.png)
-
----
-
-## Live Demo 
-
-[Click here ☺️](https://yaldakhoshpey.github.io/Calculator_pro/)
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
-
----
-
 **made by *Yalda Khoshpey***
